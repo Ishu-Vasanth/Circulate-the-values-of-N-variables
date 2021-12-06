@@ -37,7 +37,7 @@ def circulate():
     
 
 ## Output:
-![output 1](cir.png)
+![output 1](png.png)
 
 ## Result:
 circulate the values of n variables is succesfull
